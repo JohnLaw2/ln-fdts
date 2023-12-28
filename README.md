@@ -1,7 +1,7 @@
 # ln-fdts
 Proposal to change Bitcoin's consensus rules to support Feerate-Dependent Timelocks (FDTs).
 In addition, an exact analysis of the risk of a double spend attack that corrects an error in the original Bitcoin whitepaper.
-See fdts_v1.1.pdf.
+See fdts_v1.2.pdf.
 
 Also, see the following python3 programs:
 
